@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/1YearWithTheLoveOfMyLife/static/css/main.2013af6c.css",
-    "main.js": "/1YearWithTheLoveOfMyLife/static/js/main.81ff4123.js",
+    "main.js": "/1YearWithTheLoveOfMyLife/static/js/main.5b13e256.js",
     "static/js/453.0f63203c.chunk.js": "/1YearWithTheLoveOfMyLife/static/js/453.0f63203c.chunk.js",
     "index.html": "/1YearWithTheLoveOfMyLife/index.html",
     "main.2013af6c.css.map": "/1YearWithTheLoveOfMyLife/static/css/main.2013af6c.css.map",
-    "main.81ff4123.js.map": "/1YearWithTheLoveOfMyLife/static/js/main.81ff4123.js.map",
+    "main.5b13e256.js.map": "/1YearWithTheLoveOfMyLife/static/js/main.5b13e256.js.map",
     "453.0f63203c.chunk.js.map": "/1YearWithTheLoveOfMyLife/static/js/453.0f63203c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2013af6c.css",
-    "static/js/main.81ff4123.js"
+    "static/js/main.5b13e256.js"
   ]
 }
